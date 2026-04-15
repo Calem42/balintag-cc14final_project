@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Calem42/balintag-cc14final_project.git/static/css/main.531b4fd5.css",
+    "main.js": "/Calem42/balintag-cc14final_project.git/static/js/main.d287878c.js",
+    "static/js/453.134bb3e9.chunk.js": "/Calem42/balintag-cc14final_project.git/static/js/453.134bb3e9.chunk.js",
+    "static/media/logo.svg": "/Calem42/balintag-cc14final_project.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Calem42/balintag-cc14final_project.git/index.html",
+    "main.531b4fd5.css.map": "/Calem42/balintag-cc14final_project.git/static/css/main.531b4fd5.css.map",
+    "main.d287878c.js.map": "/Calem42/balintag-cc14final_project.git/static/js/main.d287878c.js.map",
+    "453.134bb3e9.chunk.js.map": "/Calem42/balintag-cc14final_project.git/static/js/453.134bb3e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.531b4fd5.css",
+    "static/js/main.d287878c.js"
+  ]
+}
